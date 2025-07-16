@@ -1,7 +1,10 @@
-baseURL = 'https://hot-potato-archive.pages.dev/'
+baseURL = 'https://hot-potato-archive.pages.dev'
 languageCode = 'ko-kr'
 title = "뜨거운 감자의 아카이빙: hot potato's archive"
 theme = 'hugo-bearblog'
+mainSections = ['blog']
+
+ignoreFiles = ["blog-template\\.md$"]
 
 [params]
   description = "뜨거운 감자의 개발 및 인사이트 아카이빙 블로그"
