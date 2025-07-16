@@ -1,0 +1,14 @@
+baseURL = 'https://hot-potato.archive.com/'
+languageCode = 'ko-kr'
+title = '뜨거운 감자의 아카이빙: hot potato's archive
+theme = 'hugo-bearblog'
+
+[params]
+  description = "뜨거운 감자의 개발 및 인사이트 아카이빙 블로그"
+  favicon = "images/favicon.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
