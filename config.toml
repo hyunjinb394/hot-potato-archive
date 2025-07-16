@@ -1,4 +1,4 @@
-baseURL = 'https://hot-potato.archive.com/'
+baseURL = 'https://hot-potato-archive.pages.dev/'
 languageCode = 'ko-kr'
 title = "뜨거운 감자의 아카이빙: hot potato's archive"
 theme = 'hugo-bearblog'
