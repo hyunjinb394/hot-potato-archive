@@ -1,6 +1,6 @@
 baseURL = 'https://hot-potato.archive.com/'
 languageCode = 'ko-kr'
-title = '뜨거운 감자의 아카이빙: hot potato's archive'
+title = '뜨거운 감자의 아카이빙: hot potato\'s archive'
 theme = 'hugo-bearblog'
 
 [params]
